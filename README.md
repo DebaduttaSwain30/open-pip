@@ -37,19 +37,7 @@ The Open-source Protein Interaction Platform (openPIP) is a customizable web por
 	         $ sudo docker run hello-world
 			``` 
 			This command downloads a test image and runs it in a container. When the container runs, it prints a message and exits as shown in the following image.
+			
 			![image](docker_message.png)
 
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1d8xAzFUrA52oRFhM-k8ivStT4fsN5V-9/view?usp=sharing)
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
